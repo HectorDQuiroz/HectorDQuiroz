@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# println("Hi There 👋") 
+- 🌱 I’m currently learning **Kotlin**
+- 📫 How to reach me: **danielq96@gmail.com**
 <!--
 **HectorDQuiroz/HectorDQuiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
