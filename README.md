@@ -1,4 +1,4 @@
-# println("Hi There 👋") 
+# println("Hi, I'm Hector 👋") 
 - 🌱 I’m currently learning **Kotlin**
 - 📫 How to reach me: **danielq96@gmail.com**
 <!--
